@@ -1,5 +1,3 @@
-# Chuas-circuit
-CHUAs circuit_9/11/2026
 import numpy as np
 import pandas as pd
 from scipy.integrate import solve_ivp
